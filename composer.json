@@ -1,0 +1,25 @@
+{
+    "name": "123movieshd-free/watch-Overboard-online-full-free-2018",
+    "description": "# Putlocker!WATCH Overboard FULL MOVIE ONLINE | HD",
+    "homepage": "https://github.com/kooreng/cakalan",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE NOW",
+            "email": "marvel123@gmail.com",
+            "homepage": "http://screenplayfilms.men/movie/454619/overboard",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
